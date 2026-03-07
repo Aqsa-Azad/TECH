@@ -13,4 +13,4 @@
 - 24 years old, BS Computer Science graduate from Iqra University, Karachi  
 - Currently <b>learning web development, cybersecurity, and AI</b>  
 - Enjoys creating small projects to practice new skills  
-- Hobbies: <b>Traveling, Badminton, Football, Gym, Long Drives</b>
+- Hobbies: <b>Traveling, Badminton, Football, Long Drives</b>
